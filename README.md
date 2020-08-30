@@ -1,6 +1,6 @@
 # PacMan AI
 Implemented a PacMan playing AI using Q-Learning as part of a project taken under CS3243.
-Implemented featureExtractor.py and qLearning.py files.
+Implemented featureExtractors.py and qlearningAgent.py files.
 
 
 # Acknowledgements
